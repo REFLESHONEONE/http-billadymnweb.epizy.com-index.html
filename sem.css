@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Rubik+Distressed&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 13px;
+  font-family: "BhuTuka Expanded One", cursive;
+}
+.colt {
+  margin: 2rem;
+  border-radius: 1rem;
+}
+.cards {
+  padding: 3rem;
+}
+.ui.footer.segment {
+  margin: 5em 0em 0em;
+  padding: 5em 0em;
+}
+.scrone {
+  padding: 14rem;
+  margin: 10px;
+}
